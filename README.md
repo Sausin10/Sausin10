@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sausin10
+- 👋 Hi, I’m Saumya
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript 
+   
 
 
 
